@@ -1,0 +1,11 @@
+.nav-item a {
+    padding: 10px;
+    color: mediumblue;
+    text-decoration: none;
+}
+/* 
+.nav-item{
+    padding: 10px;
+    border-bottom: 1px solid darkblue;
+    color: '#ccc';
+} */
